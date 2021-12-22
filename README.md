@@ -1,4 +1,4 @@
-### Marcio Costa, MBA, OCJP, OCWCD, OCJPAD 👋
+### Márcio Costa, MBA, OCJP, OCWCD, OCJPAD 👋
 
 #### Profissional de TI com mais de 15 anos de experiência no mercado atuando na área de desenvolvimento.
 
