@@ -1,5 +1,12 @@
-### Hi there 👋
+### Marcio Costa, MBA, OCJP, OCWCD, OCJPAD 👋
 
+#### Profissional de TI com mais de 15 anos de experiência no mercado atuando na área de desenvolvimento.
+
+#### Licenças e Certificados: 
+
+##### 💬 OCJPAD 6 - Oracle Certified Expert, Java EE 6 Java Persistence API Developer
+##### 💬 OCWCD 6 - Oracle Certified Expert - Java EE 6 Web Component Developer
+##### 💬 OCJP 6 - Oracle Certified Professional - Java SE 6 Programmer
 <!--
 **onelifetecnologia/onelifetecnologia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
